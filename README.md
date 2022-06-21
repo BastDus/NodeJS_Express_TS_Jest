@@ -1,4 +1,4 @@
-# Juste Readme !
+# Just Readme !
 
 Need to install ts-node globally
 `npm i -g ts-node`
