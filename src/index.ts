@@ -1,3 +1,4 @@
-import App from './app';
+import 'dotenv/config';
+import App from './server/app';
 
 new App().listen(8080);
